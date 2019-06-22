@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Practico</title>
+    <link rel="stylesheet" href="Estilos.css">
+    <script src="Funciones.js"></script>
+</head>
+
+<header>
+    <div class="Logo">
+        <img src="images/Logo.png"></var></p>
+    </div>
+
+    <nav class="menu">
+        <ul>
+            <li><a href="Angublocks2.0.html" class="black">Incio</a> </li>
+            <li><a href="Teoria.html" class="black">Teoria</a> </li>
+            <li><a href="Practicondeah.html" class="black">Practico</a> </li>
+        </ul>
+    </nav>
+</header>
+<body>
+    <h1>Calculado de Area y Perimetro</h1>
+
+    <fieldset>
+        <section>
+            <input type="submit" value="Cuadrado">
+            <div>Numero : <input type="text" id="num1"></div>
+            <input type="button" class="boton" value="Perimetro" onclick="perimetro()">
+            <input type="button" class="boton" value="Area" onclick="area()">
+        </section>
+
+        <section>
+            <input type="submit" value="Triangulo">
+            <div>Cateto 1: <input type="text" id="num2"></div>
+            <div>Cateto 2: <input type="text" id="num3"></div>
+            <div>Hipotenusa: <input type="text" id="num4"></div>
+            <input type="button" class="boton" value="Perimetro" onclick="peri()">
+            <input type="button" class="boton" value="Area" onclick="are()">
+        </section>
+    </fieldset>
+    <button  class="boton" type="button" onclick="mostrar()" ></button>
+
+
+<canvas id="canvas" class="Graficou" width="400px" height="400px" style="border:1px solid #000000"></canvas>
+
+<footer>
+    <div>Para mas consultas contactenos</div>
+    <div>Elian Stuyck:fliastuyck@gmail.com </div>
+    <div>Facundo Garces: facundogarces12@gmail.com </div>
+</footer>
+</body>
+</html>
