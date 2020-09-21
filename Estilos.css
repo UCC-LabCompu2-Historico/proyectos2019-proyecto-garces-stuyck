@@ -1,0 +1,119 @@
+                                    /*INICIO*/
+*{
+    margin: 2px;
+    padding: 2px;
+}
+
+.Logo{
+    text-align: center;
+    border: black;
+}
+
+.menu{
+    background: black;
+    color: black;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+.menu li{
+    display: inline-block;
+}
+
+.menu a{
+    padding: 10px 20px;
+    display: inline-block;
+}
+
+.menu a:hover{
+    background: lightblue;
+    color: black;
+}
+h1 {
+    color: ghostwhite;
+}
+
+h2{
+    color: red;
+}
+
+#tit{
+    color: black;
+}
+
+footer{
+     background: black;
+     color: white;
+     padding: 10px;
+     text-align: center;
+}
+
+                                    /*TEORIA*/
+
+body{
+    background-color: rgb(255, 220, 206);
+}
+
+.Texto {
+    text-align: left;
+    border: black;
+    width: 60%;
+}
+
+.Geo{
+    width: 60%;
+    text-align: left;
+}
+.black{
+    color: white;
+}
+aside{
+    float: right;
+    width: 40%;
+}
+
+.Titulos{
+    width: 60%;
+    text-align:left;
+    border: black;
+    text-align:center;
+
+}
+
+#ang{
+    float: right;
+    width: 70%
+}
+
+#seg{
+    float: right;
+    width: 20%;
+}
+
+#fig{
+    float: right;
+
+}
+
+.area{
+    width: 60%;
+    text-align: left;
+    padding-bottom: 40px;
+}
+
+#ayv{
+    width: 250px;
+    height: 250px;
+    float: right;
+}
+                                    /*PRACTICO*/
+
+
+
+.Graficou{
+    background: white;
+    border: black;
+    margin-left: 30%;
+}
