@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="faf9f1db-dcae-4188-8589-8d71a4d79d58" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Angublocks2.0.html" beforeDir="false" afterPath="$PROJECT_DIR$/Angublocks2.0.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/Estilos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Funciones.js" beforeDir="false" afterPath="$PROJECT_DIR$/Funciones.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practicondeah.html" beforeDir="false" afterPath="$PROJECT_DIR$/Practicondeah.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectos2019-proyecto-garces-stuyck.rar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +26,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Otro proyecto/proyectos2019-chiletti-vazquezdlcolina-master" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -43,7 +48,8 @@
       <workItem from="1600418747665" duration="1558000" />
       <workItem from="1600699670947" duration="2581000" />
       <workItem from="1600706442943" duration="985000" />
-      <workItem from="1600710101974" duration="813000" />
+      <workItem from="1600710101974" duration="1194000" />
+      <workItem from="1600711304688" duration="14039000" />
     </task>
     <servers />
   </component>
@@ -51,13 +57,31 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="174" key="FileChooserDialogImpl" timestamp="1600707373802">
+    <state x="441" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600711315946">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="174" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1600707373802" />
-    <state x="2256" y="172" key="run.anything.popup" timestamp="1600699868079">
+    <state x="441" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864/1920.0.1360.768@0.0.1536.864" timestamp="1600711315946" />
+    <state x="2012" y="92" width="1176" height="584" key="DiffContextDialog" timestamp="1600733194245">
       <screen x="1920" y="0" width="1360" height="768" />
     </state>
-    <state x="2256" y="172" key="run.anything.popup/0.0.1536.864/1920.0.1360.768@1920.0.1360.768" timestamp="1600699868079" />
+    <state x="2012" y="92" width="1176" height="584" key="DiffContextDialog/0.0.1536.864/1920.0.1360.768@1920.0.1360.768" timestamp="1600733194245" />
+    <state x="2406" y="155" key="FileChooserDialogImpl" timestamp="1600728564232">
+      <screen x="1920" y="0" width="1360" height="768" />
+    </state>
+    <state x="549" y="174" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1360.768@0.0.1536.864" timestamp="1600711301768" />
+    <state x="2406" y="155" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1360.768@1920.0.1360.768" timestamp="1600728564232" />
+    <state x="549" y="174" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1600707373802" />
+    <state x="2447" y="297" key="VCS.ChangelistChooser" timestamp="1600731498515">
+      <screen x="1920" y="0" width="1360" height="768" />
+    </state>
+    <state x="2447" y="297" key="VCS.ChangelistChooser/0.0.1536.864/1920.0.1360.768@1920.0.1360.768" timestamp="1600731498515" />
+    <state x="2256" y="172" key="run.anything.popup" timestamp="1600730893901">
+      <screen x="1920" y="0" width="1360" height="768" />
+    </state>
+    <state x="2256" y="172" key="run.anything.popup/0.0.1536.864/1920.0.1360.768@1920.0.1360.768" timestamp="1600730893901" />
+    <state x="2263" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1600741447105">
+      <screen x="1920" y="0" width="1360" height="768" />
+    </state>
+    <state x="2263" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1536.864/1920.0.1360.768@1920.0.1360.768" timestamp="1600741447105" />
   </component>
 </project>

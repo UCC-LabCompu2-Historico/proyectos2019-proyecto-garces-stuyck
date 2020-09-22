@@ -32,7 +32,7 @@
     color: black;
 }
 h1 {
-    color: ghostwhite;
+    color: #000000;
 }
 
 h2{
@@ -41,6 +41,10 @@ h2{
 
 #tit{
     color: black;
+}
+
+article{
+    text-align: center;
 }
 
 footer{
@@ -53,7 +57,7 @@ footer{
                                     /*TEORIA*/
 
 body{
-    background-color: rgb(255, 220, 206);
+    background-color: rgb(255, 254, 254);
 }
 
 .Texto {
@@ -111,9 +115,16 @@ aside{
                                     /*PRACTICO*/
 
 
+canvas{
+    width: 400px;
+    height: 200px;
+    border: 2px solid #000000;
+    padding: 0px;
+    display: inline;
+}
 
-.Graficou{
-    background: white;
-    border: black;
-    margin-left: 30%;
+.grafico{
+    margin-left: 10%;
+    color: black;
+
 }

@@ -21,9 +21,8 @@
     </nav>
 </header>
 <body>
-    <h1>Calculado de Area y Perimetro</h1>
+    <h1>Calculadora de Area y Perimetro</h1>
 
-    <fieldset>
         <section>
             <input type="submit" value="Cuadrado">
             <div>
@@ -33,6 +32,16 @@
             <input type="button" class="boton" value="Perimetro" onclick="perimetro()">
 
             <input type="button" class="boton" value="Area" onclick="area()">
+        </section>
+
+        <section>
+            <div class="grafico">
+            <canvas id="canvas1"></canvas>
+            </div>
+        </section>
+
+        <section>
+            <p><input type="button" name="botonDibujar" value="Dibujar" onclick="dibujarCuadrado()"></p>
         </section>
 
         <section>
@@ -52,17 +61,19 @@
 
             <input type="button" class="boton" value="Perimetro" onclick="peri()">
             <input type="button" class="boton" value="Area" onclick="are()">
+
+            <div class="grafico">
+                <canvas id="canvas2"></canvas>
+            </div>
         </section>
-    </fieldset>
-    <button  class="boton" type="button" onclick="mostrar()" ></button>
-
-
-<canvas id="canvas" class="Graficou" width="400px" height="400px" style="border:1px solid #000000"></canvas>
+            <section>
+                <p><input type="button"  name="botonDibujar" value="Dibujar" onclick="dibujarTriangulo()" ></p>
+            </section>
 
 <footer>
-    <div>Para mas consultas contactenos</div>
-    <div>Elian Stuyck:fliastuyck@gmail.com </div>
-    <div>Facundo Garces: facundogarces12@gmail.com </div>
+    <p>Para mas consultas contactenos</p>
+    <p>Elian Stuyck:fliastuyck@gmail.com </p>
+    <p>Facundo Garces: facundogarces12@gmail.com </p>
 </footer>
 </body>
 </html>
