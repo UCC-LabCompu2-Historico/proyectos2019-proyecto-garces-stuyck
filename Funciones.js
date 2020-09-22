@@ -85,6 +85,7 @@ function dibujarTriangulo() {
         ctx.moveTo(px,ladoT1);
         ctx.lineTo(ladoT1,ladoT2);
         ctx.lineTo(ladoT2,py);
+        ctx.fillStyle = "#333899";
         ctx.closePath();
         ctx.fill();
     }
